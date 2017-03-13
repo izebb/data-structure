@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Data structure implementation with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/izebb/data-structure.git"
+  },
+  "author": "Gabriel Izebhigie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izebb/data-structure/issues"
+  },
+  "homepage": "https://github.com/izebb/data-structure#readme",
+  "dependencies": {
+    "ava": "^0.18.2"
+  }
+}
